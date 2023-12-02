@@ -40,7 +40,7 @@ class BirthdayCake
   end
 
   def greet
-    "Happy #{self.age} Birthday!"
+    "Happy #{self.age}th Birthday!"
   end
 
   def sing
